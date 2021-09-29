@@ -1,0 +1,4 @@
+[submodule "ahmedkarim/public"]
+	path = ahmedkarim/public
+	url = git@github.com:Ahmed-Al-Balochi/ahmedkarim.github.io.git
+	branch = main
