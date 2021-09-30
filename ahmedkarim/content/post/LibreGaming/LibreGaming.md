@@ -2,6 +2,7 @@
 title: "LibreGaming: Easily Setup your Distro for Gaming"
 date: 2021-09-30T11:08:28+05:00
 description: "Python Program that downloads gaming required packages based on your Linux Distribution."
+url: /LibreGaming/
 tags:
   - Linux Gaming
   - LibreGaming
@@ -77,3 +78,19 @@ I would like to thank all those who downloaded and used LibreGaming, it got more
 
 This article is also available on [Medium](https://medium.com/@a7mad98.work/python-program-to-setup-gaming-for-your-linux-distro-74d3c8f25598)
 
+#### Links
+- [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) 
+
+- [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
+
+- [My Twitter Profile](https://twitter.com/CTRLpluzA)
+
+- [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
+
+- [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+
+- [My Patreon Page](https://patreon.com/user?u=42792180)
+
+## Video Walkthrough
+[![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  
+_Note: YouTube Video - Hold Ctrl + Left Click to open in new window_
