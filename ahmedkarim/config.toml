@@ -1,5 +1,0 @@
-baseURL = 'https://ahmed-al-balochi.github.io/'
-languageCode = 'en-us'
-title = 'Ahmed Karim'
-
-theme = "contrast-hugo"
