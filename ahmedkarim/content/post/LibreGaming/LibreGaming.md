@@ -74,13 +74,13 @@ libregaming --tui
 ![Wizard image](post/LibreGaming/wizard.png "Wizard")
 
 The Wizard Is the best way to have more control over what gets installed on your system by using Wizard mode in the TUI, enter this command to use the TUI
-## Closing thoughts
+# Closing thoughts
 
 I would like to thank all those who downloaded and used LibreGaming, it got more than 7k downloads.and your Feedback is always welcome.
 
 This article is also available on [Medium](https://medium.com/@a7mad98.work/python-program-to-setup-gaming-for-your-linux-distro-74d3c8f25598)
 
-#### Links
+## Links
 - [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) 
 
 - [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
