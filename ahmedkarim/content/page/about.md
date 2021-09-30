@@ -12,12 +12,13 @@ I am still on the path to learn more, and I hope that I am doing a great job at 
 Email:  a7mad98.work@gmail.com
 
 # Links
-[My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
 
-[My Twitter Profile](https://twitter.com/CTRLpluzA)
+- [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
 
-[My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
+- [My Twitter Profile](https://twitter.com/CTRLpluzA)
 
-[My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+- [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
 
-[My Patreon Page](https://patreon.com/user?u=42792180)
+- [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+
+- [My Patreon Page](https://patreon.com/user?u=42792180)
