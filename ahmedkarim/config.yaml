@@ -144,9 +144,9 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
-            local: false
-            src:
+            enabled: true
+            local: true
+            src: img/avatar.png
 
     colorScheme:
         # Display toggle
@@ -188,7 +188,7 @@ menu:
           name: Sponsor Me
           url: https://www.patreon.com/user?u=42792180
           weight: -100
-          pre: user 
+          pre: link 
           params:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: true
@@ -197,7 +197,7 @@ menu:
           name: YouTube Channel
           url: https://www.youtube.com/channel/UC6aBYCNeSAzEfu1dm07NwDA/featured
           weight: -100
-          pre: user 
+          pre: link 
           params:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: true
