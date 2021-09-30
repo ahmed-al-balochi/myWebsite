@@ -1,6 +1,6 @@
 ---
 title: "LibreGaming: لتثبيت حزم الألعاب المطلوبة على لينكس"
-
+description: "برنامج يتيح لك تثبيت حزم الألعاب المطلوبة على لينكس"
 date: 2021-09-30T22:57:59+05:00
 url: /LibreGamingAR/
 image: "post/LibreGaming/tui.png"

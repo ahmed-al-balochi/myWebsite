@@ -3,6 +3,8 @@ title: "LibreGaming: Easily Setup your Distro for Gaming"
 date: 2021-09-30T11:08:28+05:00
 description: "Python Program that downloads gaming required packages based on your Linux Distribution."
 url: /LibreGaming/
+categories:
+  - Linux
 tags:
   - Linux Gaming
   - LibreGaming
