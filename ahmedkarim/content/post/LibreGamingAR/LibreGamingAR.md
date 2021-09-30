@@ -7,6 +7,10 @@ image: "post/LibreGaming/tui.png"
 categories:
   - Linux
 tags:
+  - برنامج لتثبيت برامج الالعاب على لينكس
+  - لينكس
+  - العاب علي لينكس
+  - شغل العاب الويندوز على لينكس
   - Linux Gaming
   - LibreGaming
   - Ubuntu
