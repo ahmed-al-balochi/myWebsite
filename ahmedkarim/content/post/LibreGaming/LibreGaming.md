@@ -83,15 +83,17 @@ This article is also available on [Medium](https://medium.com/@a7mad98.work/pyth
 ## Links
 - [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) 
 
-- [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
+- 📽 [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
 
-- [My Twitter Profile](https://twitter.com/CTRLpluzA)
+- 📽 [My Odysee Channel](https://odysee.com/$/invite/@CTRLplusA:7)
 
-- [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
+- 🐦 [My Twitter Profile](https://twitter.com/CTRLpluzA)
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+- 💻 [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
 
-- [My Patreon Page](https://patreon.com/user?u=42792180)
+- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+
+- 💰 [My Patreon Page](https://patreon.com/user?u=42792180)
 
 ## Video Walkthrough
 [![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  

@@ -1,16 +1,17 @@
 ---
-title: "LibreGaming: لتثبيت حزم الألعاب المطلوبة على لينكس"
+title: "LibreGaming: تثبيت حزم الألعاب المطلوبة على لينكس"
 description: "برنامج يتيح لك تثبيت حزم الألعاب المطلوبة على لينكس"
 date: 2021-09-30T22:57:59+05:00
 url: /LibreGamingAR/
 image: "post/LibreGaming/tui.png"
 categories:
   - Linux
+  - لينكس
 tags:
   - برنامج لتثبيت برامج الالعاب على لينكس
-  - لينكس
   - العاب علي لينكس
   - شغل العاب الويندوز على لينكس
+  - ليبرقيمنق 
   - Linux Gaming
   - LibreGaming
   - Ubuntu
@@ -83,15 +84,18 @@ libregaming --tui
 
 - [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) 
 
-- [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
+- 📽 [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
 
-- [My Twitter Profile](https://twitter.com/CTRLpluzA)
+- 📽 [My Odysee Channel](https://odysee.com/$/invite/@CTRLplusA:7)
 
-- [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
+- 🐦 [My Twitter Profile](https://twitter.com/CTRLpluzA)
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+- 💻 [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
 
-- [My Patreon Page](https://patreon.com/user?u=42792180)
+- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
+
+- 💰 [My Patreon Page](https://patreon.com/user?u=42792180)
+
 
 ## شرح بالفيديو على يوتيوب 
 [![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  
