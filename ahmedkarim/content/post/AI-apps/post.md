@@ -55,7 +55,7 @@ AI Dungeon is just like what the title says. It’s a Role-Playing Game(RPG) tha
 - [For Android Click Here](https://play.google.com/store/apps/details?id=com.aidungeon&hl=en&gl=US)
 - [For iOS Click Here](https://apps.apple.com/us/app/ai-dungeon/id1491268416)
 
-## Hooper
+## Hopper
 Hooper is an AI-based application that looks for the flights and cheapest hotel rooms around the year.
 
 ### Pros
