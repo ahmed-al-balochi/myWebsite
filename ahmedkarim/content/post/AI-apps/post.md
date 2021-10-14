@@ -16,6 +16,8 @@ tags:
 draft: false 
 description: "These 4 AI Application are great at what they do!"
 ---
+## Intro
+These apps are great at what they do; I think you will find use of at least one of them.
 
 ## Youper
 Youper is an app for people who want to talk about their mental health problems.
