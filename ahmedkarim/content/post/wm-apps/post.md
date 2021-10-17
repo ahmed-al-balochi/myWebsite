@@ -12,7 +12,7 @@ tags:
   - Tiling Window Manager 
   - Ubuntu
   - Arch Linux 
-draft: false 
+draft: True 
 description: "These utilities are essential for all Window Manager users"
 ---
 

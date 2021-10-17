@@ -1,5 +1,5 @@
 ---
-title: "Top 5 Terminal Utilities"
+title: "Top 5: Linux Terminal Applications and Utilities"
 
 date: 2021-10-16T17:11:47+05:00
 url: /best-terminal-utilities/
@@ -12,7 +12,7 @@ tags:
   - Command Line
   - CLI
 draft: false 
-description: "5 Useful Terminal Utilities That Are The Best At What They Do!"
+description: "5 Useful Terminal Applications Utilities That Are The Best At What They Do!"
 ---
 
 ## Intro
