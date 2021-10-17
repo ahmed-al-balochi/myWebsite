@@ -106,11 +106,9 @@ It recreates the famous data decryption effect seen on screen in the 1992 hacker
 ## Conclusion
 I hope you found this list useful. Sound off in the comments on what your favorites Terminal utilities?
 
-<!--
 ## Video Walkthrough
-[![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  
+[![Video](https://img.youtube.com/vi/eXPDvBfJwRM/0.jpg)](https://youtu.be/eXPDvBfJwRM)
 _Note: YouTube Video - Hold Ctrl + Left Click to open in new window_
--->
 
 ## Ahmed Karim
 
