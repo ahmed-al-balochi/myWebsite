@@ -17,7 +17,7 @@ Email:  a7mad98.work@gmail.com
 
 - 📽 [My Odysee Channel](https://odysee.com/$/invite/@CTRLplusA:7)
 
-- 🐦 [My Twitter Profile](https://twitter.com/CTRLpluzA)
+- 🐦 [My Twitter Profile](https://twitter.com/ahmedal_balochi)
 
 - 💻 [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
 
