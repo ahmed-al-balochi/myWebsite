@@ -4,6 +4,17 @@ theme: stack
 paginate: 5
 title: Ahmed Al Balochi
 
+languages:
+    en:
+        languageName: English
+        title: Example Site
+        weight: 1
+    ar:
+        languageName: عربي
+        languagedirection: rtl
+        title: موقع تجريبي
+        weight: 2
+
 # Change it to your Disqus shortname before using
 disqusShortname: stack
 
@@ -30,7 +41,7 @@ params:
     favicon: img/logo2.png
 
     footer:
-        since: 2021
+        since: 2022
         customText:
 
     dateFormat:
@@ -137,7 +148,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: https://twitter.com/CTRLpluzA
+            site: https://twitter.com/ahmedal_balochi
 
             # Available values: summary, summary_large_image
             card: summary_large_image
