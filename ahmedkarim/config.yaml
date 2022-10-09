@@ -23,7 +23,7 @@ googleAnalytics: UA-209047568-1
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl, it
-DefaultContentLanguage: en
+DefaultContentLanguage: ar
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -50,7 +50,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: CS Student | PC Enthusiast | Linux | Tech Content Creator | Host of CTRL + A on YouTube
+        subtitle: طالب علوم حاسب | أحب لينكس | مهندس برمجيات | صانع محتوى قناة Ahmed Al Balochi على YouTube
         avatar:
             enabled: true
             local: true
@@ -178,22 +178,52 @@ params:
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
-menu:
-    main: []
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/Ahmed-Al-Balochi
+languages:
+  ar:
+    languageName: العربية
+    languagedirection: rtl
+    menu:
+      main:
+        - identifier: home
+          name: الرئيسية
+          url: /
+          weight: -100
+          pre: home
           params:
-              icon: brand-github
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/ahmedal_balochi
+        - identifier: about 
+          name: عن الكاتب 
+          url: /about
+          weight: -100
+          pre: user 
           params:
-              icon: brand-twitter
-    main:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false 
+
+        - identifier: Sponsor Me
+          name: إدعمني
+          url: https://www.patreon.com/user?u=42792180
+          weight: -100
+          pre: link 
+          params:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: true
+
+        - identifier: YouTube Channel
+          name: قناتي على اليوتيوب
+          url: https://www.youtube.com/channel/UC6aBYCNeSAzEfu1dm07NwDA/featured
+          weight: -100
+          pre: link 
+          params:
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: true
+  en:
+    languageName: English
+    menu:
+      main:
         - identifier: home
           name: Home
           url: /
