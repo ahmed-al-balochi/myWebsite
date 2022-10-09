@@ -134,16 +134,19 @@ params:
             clientSecret: 
 
     widgets:
-        enabled:
-          #- archives
-          - search
-          - tag-cloud
-
-        archives:
-            limit: 5
-
-        tagCloud:
-            limit: 10
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:
+            - type: toc
 
     opengraph:
         twitter:
@@ -176,6 +179,21 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/Ahmed-Al-Balochi
+          params:
+              icon: brand-github
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com/ahmedal_balochi
+          params:
+              icon: brand-twitter
+menu:
     main:
         - identifier: home
           name: Home
@@ -184,7 +202,7 @@ menu:
           pre: home
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: false 
+              newTab: false
 
         - identifier: about 
           name: About 
