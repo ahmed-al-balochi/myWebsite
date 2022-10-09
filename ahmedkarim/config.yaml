@@ -193,7 +193,6 @@ menu:
           url: https://twitter.com/ahmedal_balochi
           params:
               icon: brand-twitter
-menu:
     main:
         - identifier: home
           name: Home
