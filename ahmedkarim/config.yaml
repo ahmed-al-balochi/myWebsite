@@ -50,7 +50,8 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: طالب علوم حاسب | أحب لينكس | مهندس برمجيات | صانع محتوى قناة Ahmed Al Balochi على YouTube
+        languages:
+        #subtitle: طالب علوم حاسب | أحب لينكس | مهندس برمجيات | صانع محتوى قناة Ahmed Al Balochi على YouTube
         avatar:
             enabled: true
             local: true
@@ -194,9 +195,9 @@ languages:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
 
-        - identifier: about 
+        - identifier: عن الكاتب  
           name: عن الكاتب 
-          url: /about
+          url: /عن الكاتب 
           weight: -100
           pre: user 
           params:
