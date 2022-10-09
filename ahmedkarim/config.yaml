@@ -7,12 +7,12 @@ title: Ahmed Al Balochi
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Ahmed Al Balochi
         weight: 1
     ar:
-        languageName: عربي
+        languageName: العربية
         languagedirection: rtl
-        title: موقع تجريبي
+        title:  أحمد البلوشي
         weight: 2
 
 # Change it to your Disqus shortname before using
