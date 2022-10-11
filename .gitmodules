@@ -1,4 +1,0 @@
-[submodule "ahmedkarim/public"]
-	path = ahmedkarim/public
-	url = git@github.com:ahmed-al-balochi/blog.git
-	branch = main
