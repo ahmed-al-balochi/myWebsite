@@ -100,23 +100,19 @@ sudo pacman -S picom
 ##  Conclution
 I hope you found these applications useful and I would love to hear your feedback on your favorite WM applications?
 
-<!--
 ## Video Walkthrough
-[![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  
+[![YouTube Video](https://img.youtube.com/vi/eXPDvBfJwRM/0.jpg)](https://youtu.be/eXPDvBfJwRM)  
 _Note: YouTube Video - Hold Ctrl + Left Click to open in new window_
--->
 
-## Ahmed Karim 
-
-### Links
+## Links
 
 - 📽 [My YouTube Channel](https://t.co/qNbPadCaHI?amp=1)
 
 - 📽 [My Odysee Channel](https://odysee.com/$/invite/@CTRLplusA:7)
 
-- 🐦 [My Twitter Profile](https://twitter.com/CTRLpluzA)
+- 🐦 [My Twitter Profile](https://twitter.com/ahmedal_balochi)
 
-- 💻 [My GitHub Profile](https://github.com/Ahmed-Al-Balochi)
+- 💻 [My GitHub Profile](https://github.com/ahmed-al-balochi)
 
 - 💼 [My LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-balochi-b97b9b150/)
 

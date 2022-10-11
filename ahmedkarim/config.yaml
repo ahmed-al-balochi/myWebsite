@@ -1,18 +1,16 @@
-baseurl: https://ahmed-al-balochi.github.io/
-languageCode: en-us
+baseurl: https://tech-ahmed.com/
 theme: stack
-paginate: 5
 title: Ahmed Al Balochi
 
 languages:
-    en:
-        languageName: English
-        title: Ahmed Al Balochi
-        weight: 1
     ar:
         languageName: العربية
         languagedirection: rtl
         title:  أحمد البلوشي
+        weight: 1
+    en:
+        languageName: English
+        title: Ahmed Al Balochi
         weight: 2
 
 # Change it to your Disqus shortname before using
@@ -50,7 +48,6 @@ params:
 
     sidebar:
         emoji: 🍥
-        languages:
         #subtitle: طالب علوم حاسب | أحب لينكس | مهندس برمجيات | صانع محتوى قناة Ahmed Al Balochi على YouTube
         avatar:
             enabled: true
@@ -179,56 +176,106 @@ params:
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
-
 languages:
   ar:
     languageName: العربية
     languagedirection: rtl
     menu:
+      main: []
+
+      social:
+        - identifier: youtube
+          name: YouTube
+          weight: 1
+          url: https://github.com/ahmed-al-balochi
+          params:
+              icon: youtube
+
+        - identifier: twitter
+          name: Twitter
+          weight: 2
+          url: https://twitter.com/ahmedal_balochi
+          params:
+              icon: brand-twitter
+
+        - identifier: github
+          name: GitHub
+          weight: 3
+          url: https://github.com/ahmed-al-balochi
+          params:
+              icon: brand-github
+
+        - identifier: rss
+          name: RSS
+          weight: 4
+          url: https://tech-ahmed.com/index.xml
+          params:
+              icon: rss
+
       main:
         - identifier: home
           name: الرئيسية
           url: /
-          weight: -100
+          weight: -3
           pre: home
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
 
         - identifier: عن الكاتب  
           name: عن الكاتب 
           url: /عن الكاتب 
-          weight: -100
+          weight: -2
           pre: user 
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
               newTab: false 
 
         - identifier: Sponsor Me
           name: إدعمني
           url: https://www.patreon.com/user?u=42792180
-          weight: -100
+          weight: -1
           pre: link 
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
+              icon: doller
               newTab: true
 
-        - identifier: YouTube Channel
-          name: قناتي على اليوتيوب
-          url: https://www.youtube.com/channel/UC6aBYCNeSAzEfu1dm07NwDA/featured
-          weight: -100
-          pre: link 
-          params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
   en:
     languageName: English
     menu:
+      main: []
+
+      social:
+        - identifier: youtube
+          name: YouTube
+          weight: 1
+          url: https://github.com/ahmed-al-balochi
+          params:
+              icon: youtube
+
+        - identifier: twitter
+          name: Twitter
+          weight: 2
+          url: https://twitter.com/ahmedal_balochi
+          params:
+              icon: brand-twitter
+
+        - identifier: github
+          name: GitHub
+          weight: 3
+          url: https://github.com/ahmed-al-balochi
+          params:
+              icon: brand-github
+
+        - identifier: rss
+          name: RSS
+          weight: 4
+          url: https://tech-ahmed.com/index.xml
+          params:
+              icon: rss
       main:
         - identifier: home
           name: Home
           url: /
-          weight: -100
+          weight: -3
           pre: home
           params:
               ### For demonstration purpose, the home link will be open in a new tab
@@ -237,29 +284,20 @@ languages:
         - identifier: about 
           name: About 
           url: /about
-          weight: -100
+          weight: -2
           pre: user 
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
               newTab: false 
 
         - identifier: Sponsor Me
           name: Sponsor Me
           url: https://www.patreon.com/user?u=42792180
-          weight: -100
+          weight: -1
           pre: link 
           params:
-              ### For demonstration purpose, the home link will be open in a new tab
               newTab: true
+              icon: doller
 
-        - identifier: YouTube Channel
-          name: YouTube Channel
-          url: https://www.youtube.com/channel/UC6aBYCNeSAzEfu1dm07NwDA/featured
-          weight: -100
-          pre: link 
-          params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
 
 related:
     includeNewer: true
