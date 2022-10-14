@@ -20,8 +20,8 @@ jobs:
           output: 'content/posts'
       - name: Commit files
         run: |
-          git config --local user.email "a7mad98.work@gmail.com"
-          git config --local user.name "Ahmed Al Balochi"
+          git config --local user.email "skyfe79@gmail.com"
+          git config --local user.name "sungcheol kim"
           git add .
           git commit -m "Add Posts"
       - name: Push changes
