@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v1
-      - name: Fetch issues and generate markdowns
+      - name: hugo-with-github-issues
         uses: skyfe79/hugo-with-github-issues@v1.7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
