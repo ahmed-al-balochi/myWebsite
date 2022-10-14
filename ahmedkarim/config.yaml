@@ -73,7 +73,7 @@ params:
             adminLabel:
 
         utterances:
-            repo:
+            repo: ahmed-al-balochi/blog
             issueTerm: pathname
             label:
 
