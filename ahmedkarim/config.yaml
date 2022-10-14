@@ -14,7 +14,7 @@ languages:
         weight: 2
 
 # Change it to your Disqus shortname before using
-disqusShortname: stack
+disqusShortname: 
 
 # GA Tracking ID
 googleAnalytics: UA-209047568-1 
@@ -63,7 +63,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
 
         disqusjs:
             shortname:
