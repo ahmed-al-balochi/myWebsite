@@ -17,7 +17,7 @@ jobs:
           owner: 'ahmed-al-balochi'
           skip-author: 'utterances-bot'
           use-issue-seperator: 'false'
-          output: 'content/posts'
+          output: '/ahmedkarim/content/post/'
       - name: Commit files
         run: |
           git config --local user.email "skyfe79@gmail.com"
