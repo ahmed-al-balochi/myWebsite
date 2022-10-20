@@ -2,3 +2,7 @@
 	path = ahmedkarim/public
 	url = git@github.com:ahmed-al-balochi/blog.git
 	branch = main
+[submodule "ahmedkarim/themes/stack"]
+	path = ahmedkarim/themes/stack
+	url = https://github.com/ahmed-al-balochi/hugo-theme-stack.git
+	branch = master
