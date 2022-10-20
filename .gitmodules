@@ -1,7 +1,3 @@
-[submodule "ahmedkarim/themes/stack"]
-	path = ahmedkarim/themes/stack
-	url = git@github.com:ahmed-al-balochi/hugo-theme-stack.git
-	branch = master
 [submodule "ahmedkarim/public"]
 	path = ahmedkarim/public
 	url = git@github.com:ahmed-al-balochi/blog.git
