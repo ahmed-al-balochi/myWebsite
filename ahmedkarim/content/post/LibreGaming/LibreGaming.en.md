@@ -13,7 +13,7 @@ tags:
   - Arch Linux 
   - OpenSUSE Tumbleweed 
 
-image: "post/LibreGaming/tui.png"
+image: "post/LibreGaming/LibreGaming.png"
 ---
 ## Intro
 LibreGaming Is a program for installing gaming required packages on Linux.
