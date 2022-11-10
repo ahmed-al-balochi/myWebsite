@@ -84,5 +84,4 @@ This article is also available on [Medium](https://medium.com/@a7mad98.work/pyth
 - 💰 [My Patreon Page](https://patreon.com/user?u=42792180)
 
 ## Video Walkthrough
-[![LibreGaming Video](https://img.youtube.com/vi/F9GP5Et12qo/0.jpg)](https://youtu.be/F9GP5Et12qo)  
-_Note: YouTube Video - Hold Ctrl + Left Click to open in new window_
+{{< youtube F9GP5Et12qo >}}

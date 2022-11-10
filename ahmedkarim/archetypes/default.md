@@ -3,7 +3,6 @@ title: "{{ replace .Name "-" " " | title }}"
 
 date: {{ .Date }}
 url: /{{ .Name }}/
-image: /images/2020-thumbs/{{ .Name }}.jpg
 image: "post/postFolder/pic.jpg"
 categories:
   - Linux
@@ -19,8 +18,8 @@ description: " "
 This has changed my life and has made it so I can make posts like this one for people to follow. This entire post took me about an hour to write and would have take twice as long if I were to do it in WordPress. 
 
 ## Video Walkthrough
-[![LibreGaming Video](https://img.youtube.com/vi/QJXbxzLbS3Y/0.jpg)](https://youtu.be/QJXbxzLbS3Y)  
-_Note: YouTube Video - Hold Ctrl + Left Click to open in new window_
+
+{{< youtube video_id >}}
 
 ## Ahmed Karim 
 
