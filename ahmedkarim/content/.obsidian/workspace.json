@@ -27,7 +27,7 @@
               "state": {
                 "file": "post/Mastodon/Mastodon.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
