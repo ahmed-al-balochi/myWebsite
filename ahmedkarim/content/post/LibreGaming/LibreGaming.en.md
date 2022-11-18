@@ -50,7 +50,7 @@ LibreGaming will install these packages for you:
 ## Prerequisites:
 Before you install LibreGaming you need to get the following:
 
-* You need your drivers installed beforehand for maximum performance under Linux. you can install them by going to this [page](https://github.com/lutris/docs/blob/master/InstallingDrivers.md)
+* You need your drivers installed beforehand for maximum performance under Linux. you can install them by going to this [page](https://tech-ahmed.com/LibreGaming.en/#prerequisites)
 
 * To run this LibreGaming script you need python3 installed if not already. to install python3 click [Here](https://github.com/Ahmed-Al-Balochi/LibreGaming#dependencies).
 * Also you need to enable free and nonfree packages if you are using Fedora to install steam. You can find the commands to enable free and nonfree packages for Fedora [here](https://docs.fedoraproject.org/en-US/quick-docs/setup_rpmfusion/#proc_enabling-the-rpmfusion-repositories-using-command-line-utilities_enabling-the-rpmfusion-repositories):
@@ -127,7 +127,7 @@ sudo zypper install python3-pip
 2. [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher.git) (Needs AUR enabled on Arch Linux)
 3. [mangohud](https://github.com/flightlessmango/MangoHud.git) and [goverlay](https://github.com/benjamimgois/goverlay.git)(Needs AUR enabled on Arch Linux).
 #### Other_Packages
-* These Packages have their own install option and they are not included in the above packages. They need to be installed seperatly, to know more click [here](https://github.com/Ahmed-Al-Balochi/LibreGaming#usage)
+* These Packages have their own install option and they are not included in the above packages. They need to be installed seperatly, to know more click [here](https://tech-ahmed.com/LibreGaming.en/#usage)
 1. [ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom)(You Must run Steam at least once before installing ProtonGE).
 2. [Athenaeum](https://gitlab.com/librebob/athenaeum.git) Launcher for FOSS games.
 3. [itch.io](https://itch.io/app) a Launcher for indie games.
@@ -140,7 +140,7 @@ sudo zypper install python3-pip
 ![execute privileges](post/LibreGaming/execute-privileges.png)
 
 ### CLI
-* You can install LibreGaming using pip if you have it installed. click [Here](https://github.com/Ahmed-Al-Balochi/LibreGaming#dependencies) to install pip3:
+* You can install LibreGaming using pip if you have it installed. click [Here](https://tech-ahmed.com/LibreGaming.en/#dependencies) to install pip3:
 ```
 sudo pip3 install LibreGaming
 ```

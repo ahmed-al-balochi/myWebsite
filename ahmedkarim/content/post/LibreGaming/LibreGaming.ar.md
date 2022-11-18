@@ -133,7 +133,7 @@ sudo zypper install python3-pip
 2. [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher.git) (Needs AUR enabled on Arch Linux)
 3. [mangohud](https://github.com/flightlessmango/MangoHud.git) and [goverlay](https://github.com/benjamimgois/goverlay.git)(Needs AUR enabled on Arch Linux).
 ### لتثبيت البرامج/الحزم الاختيارية
-* هذه البرامج لها أوامر خاصة بها مستقلة عن الأومر الأخرى تعمل تحت برنامج LibreGaming. للإستخدام قم بالنقر [هنا.](https:/tech-ahmed/LibreGaming/#%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A3%D9%88%D8%A7%D9%85%D8%B1-libregaming)
+* هذه البرامج لها أوامر خاصة بها مستقلة عن الأومر الأخرى تعمل تحت برنامج LibreGaming. للإستخدام قم بالنقر [هنا.](https://tech-ahmed.com/LibreGaming/#%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A3%D9%88%D8%A7%D9%85%D8%B1-libregaming)
 1. [ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom)(يجب تشغيل برنامج ستيم (Steam) على الأقل مرة واحدة قبل تثبيت ProtonGE).
 2. [Athenaeum](https://gitlab.com/librebob/athenaeum.git)  متجر للألعاب المفتوحة المصدر.
 3. [itch.io](https://itch.io/app)  متجر لألعاب من تطوير المطورين المستقلين (Indie).
@@ -146,7 +146,7 @@ sudo zypper install python3-pip
 ![execute privileges](post/LibreGaming/execute-privileges.png)
 
 ### باستخدام موجه الأوامر
-* لتثبيت حزمة LibreGaming عن برنامج pip قم بالنقر [هنا.](https://tech-ahmed/LibreGaming/#%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A3%D9%88%D8%A7%D9%85%D8%B1-libregaming):
+* لتثبيت حزمة LibreGaming عن برنامج pip قم بالنقر [هنا.](https://tech-ahmed.com/LibreGaming/#%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D9%8A%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%8A%D9%87%D8%A7-libregaming-dependencies):
 * بعد تثبيت حزمة pip قم بإدخال الأمر التالي:
 ```
 sudo pip3 install LibreGaming
